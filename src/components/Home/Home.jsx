@@ -9,28 +9,6 @@ import CardSlider from '../CardSlider/CardSlider';
 export default function Home() {
 
             
-        const projects = [
-        {
-            title: 'My Notes App',
-            description: 'A dynamic note-taking app built with HTML, CSS, and JavaScript.',
-            image: 'https://play-lh.googleusercontent.com/vSNQds6F5roxdN4-a16JnQ9dWQVSZZ8OH4-iMAcNLaFQd3ItZWU8rOPOql4Ew5Hh1esX', // Replace with your project image URL
-            link: 'https://0mynotesapp.netlify.app'
-        },
-        {
-            title: 'Movie Info App',
-            description: 'A place to know about all your favourite movies',
-            image: 'https://media.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif', // Replace with your project image URL
-            link: '/projects/mynotesapp'
-        },
-        {
-            title: 'My PortFolio',
-            description: 'My portfolio to know about me',
-            image: 'https://cdn.dribbble.com/users/5720644/screenshots/13912339/media/cfc570f6891e4aef4ae3c5282a767847.gif', // Replace with your project image URL
-            link: 'https://amanmahaur.netlify.app'
-        },
-        // Add more projects here...
-    ];
-
     return (
         <>
             <div className='block sm:flex relative justify-between items-center mx-auto my-3 gap-2' >
@@ -67,19 +45,7 @@ export default function Home() {
                     </h2>
 
             </div>
-            {/* <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mx-4 my-12">
-            
 
-                {projects.map((project, index) => (
-                    <ProjectCard
-                        key={index}
-                        title={project.title}
-                        description={project.description}
-                        image={project.image}
-                        link={project.link}
-                    />
-                ))}
-            </div> */}
             <CardSlider/>
         </>
     );
