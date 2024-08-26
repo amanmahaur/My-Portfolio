@@ -24,7 +24,7 @@ function MyProjects() {
             title: 'My PortFolio',
             description: 'My portfolio to know about me,my skills and the things I do',
             image: 'https://cdn.dribbble.com/users/5720644/screenshots/13912339/media/cfc570f6891e4aef4ae3c5282a767847.gif', // Replace with your project image URL
-            link: '/projects/mynotesapp'
+            link: 'https://amanmahaur.netlify.app/'
         },
         {
             title: 'Currency Converter',
