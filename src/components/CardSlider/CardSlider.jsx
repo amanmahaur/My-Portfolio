@@ -61,7 +61,7 @@ const CardSlider = () => {
       title: 'Movie Info App',
       description: 'A place to know about all your favourite movies',
       image: 'https://media.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif',
-      link: '/projects/mynotesapp'
+      link: '0movienation.netlify.app'
     },
     {
       title: 'My PortFolio',
