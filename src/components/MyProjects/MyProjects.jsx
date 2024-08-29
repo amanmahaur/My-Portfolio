@@ -12,7 +12,7 @@ function MyProjects() {
             title: 'Movie Info App',
             description: 'A place to know about all your favourite movies,series and more',
             image: 'https://media.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif', // Replace with your project image URL
-            link: '/projects/mynotesapp'
+            link: '0movienation.netlify.app'
         },
         {
             title: 'Random Password Generator',
@@ -34,7 +34,7 @@ function MyProjects() {
         },
         {
             title: 'Text to Speech Converter',
-            description: 'A dynamic note-taking app built with HTML, CSS, and JavaScript.',
+            description: 'A simple text to speech converter for your pc',
             image: 'https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0d23132467165.5689027f380f8.gif', // Replace with your project image URL
             link: 'https://speechifier.netlify.app'
         },
