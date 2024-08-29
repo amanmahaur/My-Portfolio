@@ -12,7 +12,7 @@ function MyProjects() {
             title: 'Movie Info App',
             description: 'A place to know about all your favourite movies,series and more',
             image: 'https://media.tenor.com/0DnrqvZqHGUAAAAC/movie-excited.gif', // Replace with your project image URL
-            link: '0movienation.netlify.app'
+            link: 'https://0movienation.netlify.app'
         },
         {
             title: 'Random Password Generator',
