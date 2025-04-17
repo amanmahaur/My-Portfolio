@@ -29,7 +29,7 @@ export default function About() {
                         <div className='flex flex-col space-y-4'>
                             <div className='flex justify-between'>
                                 <p className="text-gray-600">B.Tech Electrical Engineering: MANIT Bhopal</p>
-                                <p className="text-gray-600">CGPA: 7.98 (5th Sem)</p>
+                                <p className="text-gray-600">CGPA: 7.98 (till 5th Sem)</p>
                             </div>
                             <div className='flex justify-between'>
                                 <p className="text-gray-600">Intermediate: M. D. Jain Inter College Agra</p>
@@ -51,7 +51,7 @@ export default function About() {
                             </div>
                             <div className='flex flex-row gap-1'>
                                 <p className="text-gray-600 font-bold">Web-Development:</p>
-                                <p className="text-gray-600">HTML, CSS, JavaScript, TailwindCSS, ReactJS</p>
+                                <p className="text-gray-600">HTML, CSS, JavaScript, TailwindCSS, ReactJS, MongoDB, ExpressJS, NodeJS</p>
                             </div>
                         </div>
                     </div>
