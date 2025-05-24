@@ -20,7 +20,7 @@ export default function About() {
                             Hehe Boii...
                         </p>
                         <p className="mt-4 text-gray-600">
-                            I’m currently a 3rd-year B.Tech student in Electrical Engineering at MANIT Bhopal, with an interest in Coding, Web-Development, and robots. I thrive on challenges and am constantly looking for opportunities to grow and innovate.
+                            I’m currently a final year B.Tech student in Electrical Engineering at MANIT Bhopal, with an interest in Coding, Web-Development, and robots. I thrive on challenges and am constantly looking for opportunities to grow and innovate.
                         </p>
 
                         <h2 className="mt-10 text-2xl text-gray-900 font-bold md:text-4xl">
