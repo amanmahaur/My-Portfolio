@@ -20,7 +20,7 @@ export default function About() {
                             Hehe Boii...
                         </p>
                         <p className="mt-4 text-gray-600">
-                            I’m currently a final year B.Tech student in Electrical Engineering at MANIT Bhopal, with an interest in Coding, Web-Development, and robots. I thrive on challenges and am constantly looking for opportunities to grow and innovate.
+                            I’ve completed my B.Tech in Electrical Engineering from MANIT Bhopal, with an interest in Coding, Web-Development, and robots. I thrive on challenges and am constantly looking for opportunities to grow and innovate.
                         </p>
 
                         <h2 className="mt-10 text-2xl text-gray-900 font-bold md:text-4xl">
@@ -29,7 +29,7 @@ export default function About() {
                         <div className='flex flex-col space-y-4'>
                             <div className='flex justify-between'>
                                 <p className="text-gray-600">B.Tech Electrical Engineering: MANIT Bhopal</p>
-                                <p className="text-gray-600">CGPA: 8.05 (till 6th Sem)</p>
+                                <p className="text-gray-600">CGPA: 8.14 </p>
                             </div>
                             <div className='flex justify-between'>
                                 <p className="text-gray-600">Intermediate: M. D. Jain Inter College Agra</p>
@@ -47,7 +47,7 @@ export default function About() {
                         <div className='flex flex-col space-y-4'>
                             <div className='flex flex-row gap-1'>
                                 <p className="text-gray-600 font-bold">Languages:</p>
-                                <p className="text-gray-600">C++, JavaScript</p>
+                                <p className="text-gray-600">C++, JavaScript, python, sql</p>
                             </div>
                             <div className='flex flex-row gap-1'>
                                 <p className="text-gray-600 font-bold">Web-Development:</p>
